@@ -1,0 +1,530 @@
+*{
+    margin: 0px;
+}
+body{
+    overflow-x: hidden;
+}
+#container{
+    background-color: black;
+    height: 9000px;
+    width: 100%;
+    background-size: cover;
+}
+#navbar{
+    position: fixed;
+    z-index: 1;
+}
+#logoimg{
+    width: 150px;
+    margin-top: 10px;
+}
+/* #buone{
+    margin-left: -130px;
+    font-size: 15px;
+    background-color: rgb(66, 51, 15);
+    border-radius: 8px;
+    color: goldenrod;
+
+} */
+#icone{
+    padding-top: 80px;
+    color: grey;
+    margin-left: 50px;
+}
+#ictwo{
+    padding-top: 80px;
+    color: grey;
+    margin-left: 50px;
+
+}
+#icthre{
+   padding-top: 80px;
+   color: grey;
+   margin-left: 50px;
+
+}
+#icfour{
+   padding-top: 80px;
+   color: grey;
+   margin-left: 50px;
+
+}
+#icfive{
+   padding-top: 80px;
+   color: grey;
+   margin-left: 50px;
+
+}
+#icsix{
+   padding-top: 80px;
+   color: grey;
+   margin-left: 50px;
+
+}
+#icsev{
+   padding-top: 80px;
+   color: grey;
+   margin-left: 50px;
+
+}
+#ad{
+    margin-left: 200px;
+    padding-top: 30px;
+}
+#advideo{
+    display: flex;
+    
+}
+#oreologo{
+    height: 90px;
+    margin-top: 70px;
+    width :90px;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+#adimg{
+    width: 50px;
+    height: 40px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+}
+#two{
+    /* padding: 15px; */
+    /* border-radius: 10px; */
+    /* font-size: 40px; */
+    /* background-color: rgb(39, 33, 33); */
+    /* color: white; */
+    /* cursor: pointer; */
+    /* margin-left:100px ; */
+    /* margin-top: 140px; */
+    /* padding-left: 100px; */
+    /* padding-right: 100px; */
+}
+#slide{
+    padding-top: 40px;
+}
+#releasehead{
+    color: white;
+    padding-top: 40px;
+    font-size: 50px;
+    margin-left: 200px;
+}
+#latest{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+}
+#sports{
+    color: white;
+    padding-top: 40px;
+    font-size: 50px;
+    margin-left: 200px;
+}
+#best{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+}
+#sphead{
+    display: flex;
+    margin-left: 200px;
+}
+#popular{
+    color: white;
+    padding-top: 40px;
+    font-size: 50px;
+    margin-left: 200px;
+}
+#popularshow{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+}
+#movies{
+    color: white;
+    padding-top: 40px;
+    font-size: 50px;
+    margin-left: 200px;
+}
+#newmovies{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+}
+#round{
+    color: white;
+    padding-top: 40px;
+    font-size: 50px;
+    margin-left: 200px;
+}
+#allround{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+}
+#fam{
+    color: white;
+    padding-top: 40px;
+    font-size: 50px;
+    margin-left: 200px;
+}
+#watchfam{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+}
+#horror{
+    color: white;
+    padding-top: 40px;
+    font-size: 50px;
+    margin-left: 200px;
+}
+#horrormovie{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+}
+#special{
+    color: white;
+    padding-top: 40px;
+    font-size: 50px;
+    margin-left: 200px;
+}
+#hotstar{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+}
+#coming{
+    color: white;
+    padding-top: 40px;
+    font-size: 50px;
+    margin-left: 200px;
+}
+#soon{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+}
+#disneylist{
+    margin-left: 180px;
+    justify-content: space-around;
+    display: flex;
+    padding-top: 50px;
+}
+
+#one{
+    background-color: rgb(37, 31, 31);
+    height: 200px;
+    width: 20rem;
+}
+#two{
+    background-color: rgb(37, 31, 31);
+    height: 200px;
+    width: 20rem;
+    margin-top: -1px;
+    margin-left: -10px;
+}
+#three{
+    background-color: rgb(37, 31, 31);
+    height: 200px;
+    width: 20rem;
+}
+#four{
+    background-color: rgb(37, 31, 31);
+    height: 200px;
+    width: 20rem;
+}
+#five{
+    background-color: rgb(37, 31, 31);
+    height: 200px;
+    width: 20rem;
+}
+/* #six{
+    background-color: rgb(37, 31, 31);
+    height: 200px;
+    width: 20rem;
+}
+     */
+     #win{
+        color: white;
+        padding-top: 40px;
+        font-size: 50px;
+        margin-left: 200px;
+    }
+    #finalwin{
+        display: flex;
+        justify-content: space-around;
+        margin-left: 200px;
+    }
+    #finalhead{
+        display: flex;
+        margin-left: 120px;
+    }
+    #lang{
+        color: white;
+        padding-top: 40px;
+        font-size: 50px;
+        margin-left: 200px;
+    }
+    #onelan{
+        background-image: url("https://wallpapers.oneindia.com/ph-1024x768/2015/12/ranbir-kapoor_145085594000.jpg");
+        height: 250px;
+        width: 20rem;
+        background-size: cover;
+    }
+    #twolan{
+        background-image: url("    https://e1.pxfuel.com/desktop-wallpaper/586/8/desktop-wallpaper-lily-james-english-actress-daily-backgrounds-in-lily-james.jpg        ");
+        height: 250px;
+        width: 20rem;
+        margin-top: -1px;
+        margin-left: -10px;
+        background-size: cover;
+    }
+    #threelan{
+        background-image: url("https://wallpapercave.com/wp/wp7728020.jpg");
+        height: 250px;
+        width: 20rem;
+        background-size: cover;
+    }
+    #fourlan{
+        background-image: url("https://wallpapercave.com/wp/wp6682858.jpg");
+        height: 250px;
+        width: 20rem;
+        background-size: cover;
+    }
+    #fivelan{
+        background-image: url("https://static.toiimg.com/photo/85090400.cms");
+        height: 250px;
+        width: 20rem;
+        background-size: cover;
+    }
+    #poplanguage{
+        display: flex;
+        justify-content: space-around;
+        margin-left: 180px;
+    }
+    #kids{
+        color: white;
+        padding-top: 40px;
+        font-size: 50px;
+        margin-left: 200px;
+    }
+#kidspop{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+}
+#chanel{
+    color: white;
+    padding-top: 40px;
+    font-size: 50px;
+    margin-left: 200px;
+}
+#onechanel{
+    background-color: rgb(37, 31, 31);
+    height: 200px;
+    width: 20rem;
+}
+#twochanel{
+    background-color: rgb(37, 31, 31);
+    height: 200px;
+    width: 20rem;
+    margin-top: -1px;
+    margin-left: -10px;
+}
+#threechanel{
+    background-color: rgb(37, 31, 31);
+    height: 200px;
+    width: 20rem;
+}
+#fourchanel{
+    background-color: rgb(37, 31, 31);
+    height: 200px;
+    width: 20rem;
+}
+#fivechanel{
+    background-color: rgb(37, 31, 31);
+    height: 200px;
+    width: 20rem;
+}
+#chanelist{
+    margin-left: 180px;
+    justify-content: space-around;
+    display: flex;
+    padding-top: 50px;
+}
+#footer{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 200px;
+    justify-content: space-around;
+}
+#slideimg{
+    background-image: url("https://images.indianexpress.com/2023/11/Mammootty-starrer-Turbo-first-look-1600.jpg?w=640");
+    width: 100%;
+    height: 700px;
+    margin-left: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#head1{
+    color: white;
+    font-size: 60px;
+    padding-top: 80px;
+}
+#head2{
+    color: white;
+    font-size: 20px;
+}
+#head3{
+    color: white;
+    padding-top: 50px;
+    font-size: 20px;
+}
+#head4{
+    color: rgb(212, 212, 213);
+    font-size: 20px;
+}
+#head5{
+    color: white;
+    font-size: 20px;
+}
+#busub{
+    padding:10px;
+    font-size: 20px;
+    background-color: rgb(56, 53, 53);
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 30px;
+}
+#plus{
+    font-size: 20px;
+    background-color: rgb(56, 53, 53);
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 70px;
+}
+#icone:hover{
+    color: white;
+    font-size: 50px;
+}
+#ictwo:hover{
+    color: white;
+    font-size: 50px;
+}
+#icthre:hover{
+    color: white;
+    font-size: 50px;
+}
+#icfour:hover{
+    color: white;
+    font-size: 50px;
+}
+#icfive:hover{
+    color: white;
+    font-size: 50px;
+}
+#icsix:hover{
+    color: white;
+    font-size: 50px;
+}
+#icsev:hover{
+    color: white;
+    font-size: 50px;
+}
+.content:hover{
+    opacity: 75;
+    display: block;
+    width: 290px;
+    z-index: 1;
+    transition: transform(0.3s ease);
+    transform: scale(1.2);
+    border-radius: 20px;
+    
+}
+.content{
+    display: none;
+    position: absolute;
+    width:100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgb(79, 66, 66);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    opacity: 0;
+    color: white;
+    padding-top: 50px;
+}
+.card{
+    position: relative;
+}
+
+@media(max-width:760px){
+    #advedio{
+        display: block;
+    }
+    #latest{
+        display: block;
+    }
+    #best{
+        display: block;
+    }
+    #sphead{
+        display: block;
+    }
+    #popularshow{
+        display: block;
+    }
+    #newmovies{
+        display: block;
+    }
+    #container{
+        height: 40000px;
+        background-color: black;
+    }
+    #allround{
+        display: block;
+    }
+    #watchfam{
+        display: block;
+    }
+    #horrormovie{
+        display: block;
+    }
+    #hotstar{
+        display: block;
+    }
+    #soon{
+        display: block;
+    }
+    #finalwin{
+        display: block;
+    }
+    #finalhead{
+        display: block;
+    }
+    #poplanguage{
+        display: block;
+    }
+    #kidspop{
+        display: block;
+    }
+    #chanelist{
+        display: block;
+    }
+    #footer{
+        display: block;
+    }
+    #disneylist{
+        display: block;
+    }
+}
